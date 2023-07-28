@@ -1,0 +1,78 @@
+#div1{
+    background-color: springgreen;
+    width: 1320px;
+    height: 200px;
+    display: inline-block;
+    position:fixed;
+    top:0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 2px;
+    padding-top: 5px;
+    border: 2px solid black ;
+    border: bottom 0px;
+    border-bottom: none;
+}
+#div2{
+    background-color:pink;
+    width: 660px;
+    height: 1200px;
+    margin-top: 20px;
+    margin-left: 0px;
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    z-index: -1;
+}
+#img1{
+    height:150px;
+    width: 150px;
+  display: inline-block;
+  position: relative;
+  left: 5px;
+}
+#h1{ color: blue;
+    position: absolute;
+    top: 8px;
+    left: 400px;
+    right: 400px;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+#img2{
+    height:150px;
+    width: 150px;
+ display: inline-block;
+  position: relative;
+  left: 990px;
+  right: 20px;
+}
+
+#div3{
+    background-color: rgb(177, 209, 235);
+    width: 650px;
+    height: 1200px;
+    margin-top: 20px;
+    margin-left: 5px;
+    display: inline-block;
+    position:fixed;
+    top: 200px;
+    right: 20px;
+    z-index: -1;
+
+}
+#div4{
+    background-color: rgb(172, 206, 21);
+    width: 1320px;
+    height: 100px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: auto;
+    position: fixed;
+    top: 600px;
+  text-align: center;
+  color:rgb(238, 51, 18) ;
+  font-size: 30px;
+  text-transform: capitalize;
+}
